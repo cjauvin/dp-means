@@ -1,0 +1,6 @@
+# Christian Jauvin
+# http://christianjauv.in
+# 2012-07-13
+# Python translation of this R code: https://github.com/johnmyleswhite/bayesian_nonparametrics/tree/master/code/dp-means
+# Found on: http://www.johnmyleswhite.com/notebook/2012/06/26/bayesian-nonparametrics-in-r/
+# Based on: http://arxiv.org/pdf/1111.0352.pdf
