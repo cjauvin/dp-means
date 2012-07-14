@@ -61,7 +61,7 @@ if __name__ == '__main__':
             classes.append(c)
         return data, classes
 
-    data, claases = generate_data()
+    data, classes = generate_data()
     results = dp_means(data, 50)
     print 'found %d clusters' % len(set(results['assignments']))
     plt.scatter(data[:,0], data[:,1], c=results['assignments'])
